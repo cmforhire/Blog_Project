@@ -1,0 +1,12 @@
+header h1 a {
+    font-style: italic;
+    color: white;
+    font-weight: bold;
+}
+
+body{
+    background-color: skyblue;
+    color: white;
+}
+
+
